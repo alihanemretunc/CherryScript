@@ -1,0 +1,27 @@
+Type: Brief description
+
+Detailed explanation
+
+# Type options:
+# - Add: New features
+# - Update: Changes to existing features
+# - Fix: Bug fixes
+# - Docs: Documentation changes
+# - Test: Adding/updating tests
+
+# Guidelines:
+# - Brief description should be under 50 characters
+# - Use present tense ("Add feature" not "Added feature")
+# - Detailed explanation should explain WHY this change is needed
+# - Include any relevant issue numbers
+
+# Example:
+# Add: Implement basic lexer functionality
+# 
+# Implements the core lexer component for basic token recognition.
+# This includes support for:
+# - Keyword identification
+# - Operator parsing
+# - Variable name recognition
+# 
+# Related to issue #42
